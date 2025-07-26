@@ -1,7 +1,7 @@
 # NHATHONGMINH
 Trong dự án này, tôi xây dựng cho nhóm mình đề tài đó là "Hệ thống nhà thông minh ứng dụng IOT". 
 
-Trong dự án này tôi đảm nhận nhiệm vụ chính đó và xây dựng cơ sở dữ liệu thời gian thực trên ESP32 dùng Firebase và ứng dụng giám sát, điều khiển trên hệ điều hành Android.Uứng dụng có các giao diện chính như sau: 
+Trong dự án này tôi đảm nhận nhiệm vụ chính đó và xây dựng cơ sở dữ liệu thời gian thực trên ESP32 dùng Firebase và ứng dụng giám sát, điều khiển trên hệ điều hành Android. Ứng dụng có các giao diện chính như sau: 
 <img width="801" height="770" alt="image" src="https://github.com/user-attachments/assets/7dbeb23a-29de-4c5a-8333-2e3f44cb0bb5" />
 <img width="731" height="692" alt="image" src="https://github.com/user-attachments/assets/071b1702-0b07-4f95-9010-78dc557baba6" />
 
