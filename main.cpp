@@ -29,8 +29,6 @@ String paths8  = "/TIME";
 // const char pass[] = "";
 // const char ssid[] = "GIANG L2";
 // const char pass[] = "0393286953";
-// const char ssid[] = "Nhà Thông Minh";
-// const char pass[] = "0981805945";
 // const char ssid[] = "Iphone 6s";
 // const char pass[] = "12345678";
 const char ssid[] = "NHOM12";
@@ -276,10 +274,10 @@ void setup(){
     Serial.println(WiFi.localIP());
     Serial.println();
   ///////////////////////
-    config.host = "iot-arduino-40f94-default-rtdb.asia-southeast1.firebasedatabase.app";
-    config.api_key = "AIzaSyDglobI51-CImZeGcvW3uca3j399N1ArRE";
-    auth.user.email = "nhom12@gmail.com";
-    auth.user.password = "1234567";
+    config.host = "******";
+    config.api_key = "******";
+    auth.user.email = "******";
+    auth.user.password = "******";
     Firebase.reconnectWiFi(true);
     Firebase.begin(&config, &auth);
     Firebase.beginStream(fbdo, paths);
