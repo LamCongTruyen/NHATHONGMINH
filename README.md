@@ -15,5 +15,7 @@ Dự án có một số hạn chế như là còn phụ thuộc nhiều vào gia
 <img width="716" height="690" alt="image" src="https://github.com/user-attachments/assets/6bebed3b-d58c-449f-ad89-8e93b7682ce4" />
 
 Đây là đường linh youtube tổng quan về dự án: https://www.youtube.com/watch?v=ZZoPTRIH6ak&t=1s
+
+link driver báo cáo cho nhà trường kiểm định: https://drive.google.com/drive/folders/1sIrwvNzrK513eizQS0FA8CsXWzzJCwi1?usp=sharing
 Cảm ơn bạn đã xem!
 
