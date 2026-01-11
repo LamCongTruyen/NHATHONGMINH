@@ -4,8 +4,11 @@ Dự án sử dụng vi xử lý chính là ESP32, với số lượng là 3 ESP
 
 Trong dự án tôi đảm nhận nhiệm vụ chính đó và xây dựng cơ sở dữ liệu thời gian thực trên ESP32 dùng Firebase và ứng dụng giám sát, điều khiển trên hệ điều hành Android. 
 Dự án có một số hạn chế như là còn phụ thuộc nhiều vào giao thức mạng mà chưa có giao thức hỗ trợ lúc không có Intenet. Trong tương lai nếu nhóm chọn lại đề tài này để làm đề tài tốt nghiệp thì sẽ tích hợp thêm các giao thức khác vào để cải thiện hệ thống tốt hơn.
-Ứng dụng có các giao diện chính như sau: 
+
+# Ứng dụng có các giao diện chính như sau: 
+
 <img width="801" height="770" alt="image" src="https://github.com/user-attachments/assets/7dbeb23a-29de-4c5a-8333-2e3f44cb0bb5" />
+
 <img width="731" height="692" alt="image" src="https://github.com/user-attachments/assets/071b1702-0b07-4f95-9010-78dc557baba6" />
 
 <img width="854" height="787" alt="image" src="https://github.com/user-attachments/assets/185714fc-6780-4fb7-a6a6-e1b914558f93" />
@@ -14,8 +17,8 @@ Dự án có một số hạn chế như là còn phụ thuộc nhiều vào gia
 
 <img width="716" height="690" alt="image" src="https://github.com/user-attachments/assets/6bebed3b-d58c-449f-ad89-8e93b7682ce4" />
 
-Đây là đường linh youtube tổng quan về dự án: https://www.youtube.com/watch?v=ZZoPTRIH6ak&t=1s
+# Đường linh youtube tổng quan về dự án: https://www.youtube.com/watch?v=ZZoPTRIH6ak&t=1s
 
-link driver báo cáo cho nhà trường kiểm định: https://drive.google.com/drive/folders/1sIrwvNzrK513eizQS0FA8CsXWzzJCwi1?usp=sharing
+# Link driver báo cáo cho nhà trường kiểm định: https://drive.google.com/drive/folders/1sIrwvNzrK513eizQS0FA8CsXWzzJCwi1?usp=sharing
 Cảm ơn bạn đã xem!
 
